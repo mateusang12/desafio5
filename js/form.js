@@ -9,6 +9,7 @@ class contato {
         this.tipo = tipo;
         this.mensagem = mensagem;
     }
+
 }
 
 function Post(form) {
